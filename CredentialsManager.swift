@@ -145,7 +145,7 @@ class CredentialsManager {
     }
 
     var recapEmail: String {
-        get { UserDefaults.standard.string(forKey: "recap_email") ?? "poster.malone@icloud.com" }
+        get { UserDefaults.standard.string(forKey: "recap_email") ?? "" }
         set { UserDefaults.standard.set(newValue, forKey: "recap_email") }
     }
 
