@@ -13,6 +13,11 @@ eBay and a Shopify storefront.
 
 ---
 
+<img width="2560" height="1439" alt="PM_Inventory_Table" src="https://github.com/user-attachments/assets/46341b36-573c-4b9b-b4d8-3882f9e17a8d" />
+
+
+---
+
 ## What it does
 
 | Area | Capability |
