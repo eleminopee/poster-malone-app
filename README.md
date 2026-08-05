@@ -5,7 +5,7 @@ art-print resale business end to end: inventory, multi-channel listing
 automation, photo pipeline, sales, expenses, and tax reporting.
 
 It replaced a Google Sheets + Apps Script workflow and is used daily to manage
-roughly **1000+ active inventory items** across **2,400+ completed sales**, on
+roughly **~1000+ active inventory items** across **2,400+ completed sales**, on
 eBay and a Shopify storefront.
 
 > Built solo as a working business tool, not a tutorial project. Every feature
