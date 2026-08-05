@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.postermalone</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>postermalone</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Poster Malone uses Apple Events to upload listings to eBay via Safari and send daily recap emails via Mail.</string>
+	<key>com.apple.application-identifier</key>
+	<string>$(AppIdentifierPrefix)com.postermalone.PosterMalone</string>
+</dict>
+</plist>

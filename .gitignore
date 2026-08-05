@@ -1,0 +1,56 @@
+# ─── Secrets — never commit ────────────────────────────────────────────
+*.pem
+*.p12
+*.key
+*-key.json
+service-account*.json
+credentials.json
+client_secret*.json
+ebay_token.txt
+Secrets.swift
+Credentials.plist
+.env
+.env.*
+
+# ─── Local app data (contains real inventory / sales records) ──────────
+*.sqlite
+inventory.json
+sales.json
+expenses.json
+paper_trail.json
+ig_queue.json
+trash.json
+comics_inventory.json
+comics_sales.json
+Backups/
+
+# ─── Xcode ────────────────────────────────────────────────────────────
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ─── Swift Package Manager ────────────────────────────────────────────
+.build/
+.swiftpm/
+Package.resolved
+
+# ─── macOS ────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# ─── Misc ─────────────────────────────────────────────────────────────
+*.log
+*.tmp
