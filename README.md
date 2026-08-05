@@ -15,7 +15,8 @@ eBay and a Shopify storefront.
 > and drove the fixes when something broke. The code was AI-written; the
 > product is mine. See [My role in this project](#my-role-in-this-project).
 
-![Inventory](docs/screenshots/inventory.png)
+<img width="2560" height="1439" alt="PM_Inventory_Table" src="https://github.com/user-attachments/assets/d0c44d0e-546e-47bc-9f21-52a1c5a66537" />
+
 
 ---
 
@@ -48,7 +49,8 @@ Shopify, and Instagram), sales missing financial data, and inventory aging past
 a year. Each card is a shortcut: tapping one filters the inventory to exactly
 those items.
 
-![Today](docs/screenshots/today.png)
+<img width="1386" height="891" alt="PM_Today_View" src="https://github.com/user-attachments/assets/81345d02-e0ed-40a2-b89e-1fe418172466" />
+
 
 ### Inventory
 
@@ -74,6 +76,9 @@ descriptions, pricing, metafields, collections, and SEO fields, then publishes
 to the Online Store and Google/YouTube sales channels. Successfully pushed
 items update their status and clear themselves from the queue.
 
+<img width="837" height="644" alt="PM_Shopify_Automation_Panel" src="https://github.com/user-attachments/assets/4a179311-988e-42be-98ed-8f0eb7e16b38" />
+
+
 ### Photos
 
 Each item has a Google Drive folder named by SKU. The app creates the folder,
@@ -95,7 +100,8 @@ worksheet with monthly and quarterly breakdowns, exportable as CSV.
 
 ### Analytics
 
-![Analytics](docs/screenshots/analytics.png)
+<img width="2560" height="1434" alt="PM_Analytics_Dashboard" src="https://github.com/user-attachments/assets/cd5abc1d-73f1-4f45-8d0e-5c325f52e710" />
+
 
 All-time performance, rolling sell-through with a linear-regression forecast,
 revenue over time, monthly revenue, and profit breakdowns by artist, gallery,
