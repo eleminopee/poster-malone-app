@@ -17,7 +17,7 @@ eBay and a Shopify storefront.
 
 | Area | Capability |
 |---|---|
-| **Inventory** | ~975 items, sortable/filterable table, saved views, bulk operations, soft-delete with 30-day recovery |
+| **Inventory** | ~1000 items, sortable/filterable table, saved views, bulk operations, soft-delete with 30-day recovery |
 | **eBay** | OAuth + Trading API, File Exchange CSV generation with staggered listing schedules, sold-order sync, duplicate-listing detection |
 | **Shopify** | GraphQL Admin API — product create/update, metafields, collections, variant pricing, sales-channel publishing |
 | **Photos** | Google Drive integration (service-account JWT + user OAuth), per-SKU folders, automatic public-URL generation |
