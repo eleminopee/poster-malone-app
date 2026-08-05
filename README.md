@@ -33,6 +33,12 @@ eBay and a Shopify storefront.
 
 ---
 
+<img width="1386" height="891" alt="PM_Today_View" src="https://github.com/user-attachments/assets/29d8407a-710f-40c5-ad85-b6f8baa1f08e" />
+
+
+---
+
+
 ## Architecture
 
 **Stack:** Swift 6 · SwiftUI · `@Observable` · async/await · local JSON persistence · macOS 15+
