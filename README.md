@@ -55,6 +55,9 @@ PosterMalone/
 └── Comics/                   # Parallel subsystem: own models, store, views, eBay export
 ```
 
+<img width="2560" height="1434" alt="PM_Analytics_Dashboard" src="https://github.com/user-attachments/assets/83a7c578-4f7d-47fa-a15d-b4cc8a6289dd" />
+
+
 **Some deliberate design decisions:**
 
 - **Derived state computed once per mutation, not per render.** Business-rule
